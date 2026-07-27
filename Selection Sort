@@ -23,3 +23,12 @@ int main() {
 
     return 0;
 }
+
+
+Original Array:
+29 10 14 37 13
+
+Sorted Array:
+10 13 14 29 37
+
+
